@@ -1,0 +1,1 @@
+![[Project-triangle-en.svg]]
